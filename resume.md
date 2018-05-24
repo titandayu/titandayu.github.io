@@ -9,7 +9,7 @@ Mahasiswa Ilmu Komputer IPB\
 jun 2017 -- ?:Sarjana Komputer
 ## SMA Negeri 1 Metro --- *Siswa*
 jun 2015 -- Mei 2017
-## SMP Negeri 1 Metro *Siswa*
+## SMP Negeri 1 Metro --- *Siswa*
 jun 2012 -- Mei 2015
 
 # Pelatihan
