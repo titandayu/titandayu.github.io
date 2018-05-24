@@ -1,8 +1,10 @@
 # Titan Dayu Pratisena
-Mahasiswa Ilmu Komputer IPB\
-*Jl hasanudin 21 yosomulyo*\
-*+62 896-6016-3055*\
+Mahasiswa Ilmu Komputer IPB
+
+*Jl hasanudin 21 yosomulyo*<br>
+*+62 896-6016-3055*<br>
 *titandayu@gmail.com*
+
 # Pendidikan
 
 ## Institut Pertanian Bogor --- *Skom*(insya Allah)
